@@ -2,6 +2,20 @@ Muokkailkaa tätä tiedostoa....
 
 where my #scrummers at? Have you #scrummed today yet?
 
+<<<<<<< HEAD
 don't forget to #scrum today, folks!
 
 humanity will evolve through conflict
+=======
+moiiii kamsut - minea
+
+hiii besties another day another slay !!!
+
+ayo olle täällä
+
+mitä ehmettiä - janne
+
+=======
+don't forget to #scrum today, folks!
+>>>>>>> c866a20d669964773c24bd460340267cb82a4495
+>>>>>>> 865a36c9a66c8ddd6cbb91aa543ebdb1d800c425
