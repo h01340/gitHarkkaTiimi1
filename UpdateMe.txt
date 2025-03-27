@@ -5,7 +5,14 @@ Tähän tiedostoon voi kirjoitella kaikkea kivaa
 oioioi          jee
 mau
 uliuliuli
+<<<<<<< HEAD
+bääbödalskdnaskjndal
+Tähän tiedostoon voi kirjoitella kaikkea kivaa
+oioioi
+mau
+uliuliuli
+Töttöröö
+=======
 
 :-D
-
-:->
+>>>>>>> bbd28767fc77d686602877b83d5479877d31bbd7
